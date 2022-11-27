@@ -1,8 +1,7 @@
 - 👋 Hi, I’m feduk
-- 💻 site: [feduk](https://www.feduk.ga)
-- 👀 I’m interested in frontend development
-- 🌱 I’m currently learning React
+- 👀 I’m interested in frontend development and data science
 - 💞️ I’m looking to collaborate on team with which I can grow up
+- 💻 portfolio: [feduk](https://www.feduk.ga)
 - 📫 How to reach me fedor-resh@mail.ru
 
 <!---
