@@ -1,4 +1,1 @@
-- 👋 Hi, I’m Fedor Reshetnikov
-- 💻 Fullstack developer with a focus on backend development
-- 🛠️ Go, Python, TypeScript
-- 📫 How to reach me: fedor-resh@mail.ru
+- 👋 Hi, I’m Fedor
